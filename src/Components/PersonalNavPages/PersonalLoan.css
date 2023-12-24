@@ -1,0 +1,27 @@
+
+.personal-loan-main-cont{
+    background: rgb(78,74,211);
+background: linear-gradient(90deg, rgba(78,74,211,1) 5%, rgba(70,232,222,1) 49%, rgba(158,0,255,1) 100%);
+
+}
+.open-account-button{
+    background-color: red;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    color: rgb(247, 246, 246);
+    /* border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%; */
+    border-radius: 50%;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+.aligiblity-cont{
+     display: flex;
+    justify-content: center;
+    justify-self: center;
+    
+    
+}

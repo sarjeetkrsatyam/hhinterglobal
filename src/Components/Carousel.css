@@ -1,0 +1,23 @@
+.caro-img-cont{
+    height: 90vh;
+   width: 100%;
+    background-color: brown;
+}
+
+.caro-img-cont img{
+    height: 100%;
+    width: 100%;
+}
+.carosoul-text-h1{
+    margin-bottom: 5rem;
+}
+.learn-more-button{
+    background-color: blue;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    letter-spacing: 2px;
+    margin-bottom: 7rem;
+    font-weight: bold;
+}

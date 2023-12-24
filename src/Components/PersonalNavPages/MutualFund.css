@@ -1,0 +1,112 @@
+.main-image{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+    align-items: center;
+}
+.main-image-text{
+    font-style: 1rem;
+    color: black;
+    font-weight: bold;
+}
+.image-data{
+    margin-top: 1rem;
+}
+
+.Open-account-main-div{
+   
+ 
+   justify-self: center;
+   padding-top: 0.5rem;
+   padding-bottom: 0.4rem;
+   
+   background: rgb(249, 35, 35);
+  
+}
+.open-account-text{
+   font-weight: bold;
+    color: black;
+    
+}
+.open-account-button{
+    background-color: red;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    color: rgb(247, 246, 246);
+    /* border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%; */
+    border-radius: 50%;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+.open-account-button:hover{
+    text-decoration: underline;
+    color: white;
+    cursor: pointer;
+    
+}
+.span-worl-text{
+    color: red;
+}
+.rated-main-div{
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+    margin-top: 1rem;
+   
+   
+}
+.rated-main-cont{
+   display: inline-block;
+   justify-content: center;
+   align-items: center;
+}
+
+.rate-image{
+    height: 4rem;
+    width: 4rem;
+}
+.rate-text{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: black;
+}
+.mutual-fund-text{
+    color: red;
+}
+.all-rounder-text{
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.mutual-link-text{
+   
+    font-weight: bold;
+   
+}
+.mutual-link-text:hover{
+    color: red;
+    text-decoration: underline;
+}
+.mutual-fund-text-gapcover{
+    margin-top: -1rem;
+}
+.hide-show-main-cont{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.show-hide-image{
+    height: 2.5rem;
+    width: 2.5rem;
+}
+.show-hide-text-data{
+    font-size: 1rem;
+    color: black;
+    font-weight: 500;
+}
+

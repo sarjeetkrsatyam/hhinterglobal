@@ -1,0 +1,40 @@
+.login-button{
+    background-color: blue;
+	border: 2px solid white;
+	border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    color: white;
+    font-weight: bold;
+}
+.nav-container-manu{
+    background-color: rgb(255, 255, 255);
+}
+.dropdown-button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: red;
+}
+.dropdown-button{
+
+}
+.bg-lightjjj{
+    background-color: pink;
+    
+}
+.ul-container-manu li a:hover{
+    text-decoration:overline;
+
+    background-color: rgb(221, 218, 218);
+    box-sizing: border-box;
+
+    
+ 
+ 
+    
+    
+
+}

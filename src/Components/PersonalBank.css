@@ -1,0 +1,31 @@
+.hhhhh{
+    background-color: red;
+    height: 100vh;
+    width: 100%;
+}
+.image-cont{
+    height: 70vh;
+    width: 100%;
+}
+.image-cont img{
+    height: 100%;
+    width: 100%;
+}
+.naighbout-flex-div{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+}
+.naighbout-text-main-cont h1{
+      font-weight: bold;
+      color: black;
+}
+.naighbout-text-main-cont h2{
+    font-weight: bold;
+    color: red;
+}
+.interest-line-div{
+    background-color: red;
+    padding: 10px;
+    color: white;
+}
